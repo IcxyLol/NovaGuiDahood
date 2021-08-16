@@ -6,6 +6,7 @@ Also Need To Join The Group To Use It Go To Bot-Commands Channel And Say "!group
 
 -- // - Nova Commands - \\ --
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/novacommands/main/README.md", true))()
+Commands Here : https://pastebin.com/Q9U1NUxK
 
 
 -- // - Nova Nuke - \\ --
