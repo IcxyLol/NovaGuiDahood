@@ -3,15 +3,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-New/
 To Get The Key Go To Bot Cmds And Say "!key" and you will get the key to open nova gui
 Also Need To Join The Group To Use It Go To Bot-Commands Channel And Say "!group" ! 
 
-
 -- // - Nova Commands - \\ --
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/novacommands/main/README.md", true))()
 Commands Here : https://pastebin.com/Q9U1NUxK
 
-
 -- // - Nova Nuke - \\ --
 loadstring(game:HttpGet('https://raw.githubusercontent.com/IcxyLol/nuke/main/README.md'))()
-
 
 -- // - Nova Crash - \\ --
 loadstring(game:HttpGet("https://github.com/IcxyLol/Crash/raw/main/README.md", true))() --Not Fully Done Has A Few Bugs Cus Of The Obfuscator !
@@ -19,6 +16,9 @@ Requirements For Crash:
 --Join The Group " https://www.roblox.com/groups/10598253/Nova-Gui "
 --Must Have 10k Dhc
 
-
--- // - Nova Gui Mod Scripts - \\ --
+-- // - Nova Gui - Mod Scripts - \\ --
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/Nova-Gui-Admin/main/README.md", true))()
+
+-- // - Nova Gui - Super Powers - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IcxyLol/NovaGuiSuperPowers/main/README.md", true))()
+
